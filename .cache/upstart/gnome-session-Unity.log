@@ -1,2 +1,4 @@
 Error loading .desktop file /usr/share/applications/gnome-activity-log-manager-panel.desktop: constructor returned NULL
 Error loading .desktop file /usr/share/app-install/desktop/activity-log-manager:gnome-activity-log-manager-panel.desktop: constructor returned NULL
+ERROR 2016-05-18 11:04:36 unity.settings UnitySettings.cpp:366 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2016-05-18 11:04:38 unity.settings UnitySettings.cpp:366 Invalid monitor index: -1. Returning index 0 monitor instead.

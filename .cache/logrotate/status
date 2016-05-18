@@ -1,0 +1,14 @@
+logrotate state -- version 2
+"/home/asingh/.cache/upstart/window-stack-bridge.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/at-spi2-registryd.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/indicator-power.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/dbus.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/indicator-sound.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/update-notifier-release.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/unity7.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/indicator-bluetooth.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/unity-settings-daemon.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/unity-panel-service.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/indicator-printers.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/im-config.log" 2016-5-18-10:54:27
+"/home/asingh/.cache/upstart/gnome-session-Unity.log" 2016-5-18-10:54:27

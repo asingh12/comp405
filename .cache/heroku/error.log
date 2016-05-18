@@ -1,0 +1,202 @@
+2016/05/09 21:59:32 heroku-cli/5.1.6-151ac67 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/09 21:59:32 triggering background update
+2016/05/09 21:59:32 heroku-cli/5.1.6-151ac67 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/09 21:59:32 heroku-cli/5.1.6-151ac67 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/09 21:59:32 heroku-cli/5.1.6-151ac67 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: login
+2016/05/09 21:59:32 Email: 
+2016/05/11 20:26:58 heroku-cli/5.1.6-151ac67 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/11 20:26:58 triggering background update
+2016/05/11 20:26:58 heroku-cli/5.1.6-151ac67 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/11 20:26:58 heroku-cli/5.1.6-151ac67 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/11 20:26:58 heroku-cli/5.1.6-151ac67 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/11 20:26:58 heroku-cli/5.1.6-151ac67 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: plugins
+2016/05/11 20:26:58 heroku-cli: Updating to 5.1.7-0de2607...
+2016/05/11 20:27:17 updated to 5.1.7-0de2607
+2016/05/11 20:27:17 removing old tmp: /home/asingh/.local/share/heroku/tmp/updating
+2016/05/11 20:27:18 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/11 20:27:18 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/11 20:27:18 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: login
+2016/05/11 20:27:18 Email: 
+2016/05/11 20:27:40 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/11 20:27:40 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/11 20:27:40 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: keys:add
+2016/05/11 20:29:58 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/11 20:29:58 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/11 20:29:58 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: create
+2016/05/11 20:31:34 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/11 20:31:34 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/11 20:31:34 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: rename
+2016/05/12 03:31:36 Error: Expected response to be successful, got 422
+    at Request.handleFailure (/home/asingh/.local/share/heroku/cli/lib/node_modules/heroku-client/lib/request.js:285:9)
+    at /home/asingh/.local/share/heroku/cli/lib/node_modules/heroku-client/lib/request.js:164:14
+    at IncomingMessage.<anonymous> (/home/asingh/.local/share/heroku/cli/lib/node_modules/heroku-client/lib/request.js:393:5)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:926:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+2016/05/12 03:31:36 {"id":"invalid_params","message":"Name is already taken"}
+2016/05/12 19:59:49 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/12 19:59:49 triggering background update
+2016/05/12 19:59:49 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/12 19:59:49 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/12 19:59:49 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: login
+2016/05/12 19:59:49 Email: 
+2016/05/12 20:00:11 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/12 20:00:11 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/12 20:00:11 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: create
+2016/05/12 20:04:41 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/12 20:04:41 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/12 20:04:41 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/12 20:11:05 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/12 20:11:05 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/12 20:11:05 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/12 20:18:16 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/12 20:18:16 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/12 20:18:16 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: login
+2016/05/12 20:18:16 Email: 
+2016/05/12 20:19:14 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/12 20:19:14 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/12 20:19:14 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/05/12 20:20:44 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/12 20:20:44 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/12 20:20:44 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/05/12 20:24:41 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/12 20:24:41 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/12 20:24:41 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: create
+2016/05/12 20:25:22 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/12 20:25:22 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/12 20:25:22 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: logs
+2016/05/16 13:16:56 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 13:16:56 triggering background update
+2016/05/16 13:16:56 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/16 13:16:56 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 13:16:56 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: login
+2016/05/16 13:16:56 Email: 
+2016/05/16 13:16:57 removing old tmp: /home/asingh/.local/share/heroku/tmp/290624774
+2016/05/16 13:16:57 removing old tmp: /home/asingh/.local/share/heroku/tmp/833397421
+2016/05/16 13:21:26 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 13:21:26 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 13:21:26 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/16 14:00:45 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 14:00:45 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 14:00:45 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/16 14:06:37 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 14:06:37 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 14:06:37 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/16 14:06:47 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 14:06:47 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 14:06:47 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/16 19:57:04 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 19:57:04 triggering background update
+2016/05/16 19:57:04 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/16 19:57:04 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 19:57:04 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: login
+2016/05/16 19:57:04 Email: 
+2016/05/16 19:57:17  ▸    Authentication failed.
+ ▸    Email or password is not valid.
+ ▸    Check your credentials on https://dashboard.heroku.com
+2016/05/16 19:57:21 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 19:57:21 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 19:57:21 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: login
+2016/05/16 19:57:21 Email: 
+2016/05/16 20:04:59 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 20:04:59 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 20:04:59 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/16 20:08:03 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 20:08:03 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 20:08:03 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/16 20:12:06 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 20:12:06 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 20:12:06 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/16 20:14:02 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 20:14:02 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 20:14:02 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/16 20:15:00 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 20:15:00 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 20:15:00 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/16 20:24:50 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 20:24:50 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 20:24:50 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/16 20:31:04 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/16 20:31:04 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/16 20:31:04 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/17 10:38:57 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/17 10:38:57 triggering background update
+2016/05/17 10:38:57 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/17 10:38:57 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/17 10:38:57 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: login
+2016/05/17 10:38:57 Email: 
+2016/05/17 10:39:08  ▸    HTTP Error: https://api.heroku.com/login 503 Service Unavailable
+2016/05/17 10:39:08 HTTP Error: https://api.heroku.com/login 503 Service Unavailable
+
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/http.go:170 (0x805a8f8)
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/auth.go:337 (0x804c6e0)
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/auth.go:261 (0x804bcc6)
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/auth.go:208 (0x804b39b)
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/start.go:70 (0x8064d4a)
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/main.go:22 (0x805db32)
+/usr/local/go/src/runtime/proc.go:188 (0x8098da6)
+/usr/local/go/src/runtime/asm_386.s:1585 (0x80c0241)
+
+2016/05/17 10:39:09  ▸    Invalid response from API.
+ ▸    HTTP 503
+ ▸    {asingh@linfield.edu Linf;1917}
+ ▸    
+ ▸    Are you behind a proxy?
+ ▸    https://devcenter.heroku.com/articles/using-the-cli#using-an-http-proxy
+2016/05/17 10:39:51 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/17 10:39:51 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/17 10:39:54 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/17 10:39:54 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/17 10:39:54 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: login
+2016/05/17 10:39:54 Email: 
+2016/05/17 10:40:08  ▸    HTTP Error: https://api.heroku.com/login 503 Service Unavailable
+2016/05/17 10:40:08 HTTP Error: https://api.heroku.com/login 503 Service Unavailable
+
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/http.go:170 (0x805a8f8)
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/auth.go:337 (0x804c6e0)
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/auth.go:261 (0x804bcc6)
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/auth.go:208 (0x804b39b)
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/start.go:70 (0x8064d4a)
+/home/ubuntu/.go_workspace/src/github.com/heroku/cli/main.go:22 (0x805db32)
+/usr/local/go/src/runtime/proc.go:188 (0x8098da6)
+/usr/local/go/src/runtime/asm_386.s:1585 (0x80c0241)
+
+2016/05/17 10:40:09  ▸    Invalid response from API.
+ ▸    HTTP 503
+ ▸    {asingh@linfield.edu Linf;1917}
+ ▸    
+ ▸    Are you behind a proxy?
+ ▸    https://devcenter.heroku.com/articles/using-the-cli#using-an-http-proxy
+2016/05/17 10:56:07 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/17 10:56:07 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/17 10:56:07 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: login
+2016/05/17 10:56:07 Email: 
+2016/05/17 10:56:57 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/17 10:56:57 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/17 10:56:57 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/17 20:18:33 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/17 20:18:33 triggering background update
+2016/05/17 20:18:33 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/17 20:18:33 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/17 20:18:33 heroku-cli: Updating to 5.1.8-52a89fa...
+2016/05/17 20:18:33 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/17 20:18:33 heroku-cli/5.1.7-0de2607 (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: plugins
+2016/05/17 20:18:54 updated to 5.1.8-52a89fa
+2016/05/17 20:23:09 heroku-cli/5.1.8-52a89fa (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/17 20:23:09 heroku-cli/5.1.8-52a89fa (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/17 20:23:09 heroku-cli/5.1.8-52a89fa (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: rename
+2016/05/17 20:52:03 heroku-cli/5.1.8-52a89fa (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/17 20:52:03 heroku-cli/5.1.8-52a89fa (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/17 20:52:03 heroku-cli/5.1.8-52a89fa (linux-386) go1.6.2 /home/asingh/.local/share/heroku/cli/bin/heroku cmd: rename
+2016/05/18 03:52:04 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/asingh/.local/share/heroku/cli/lib/node_modules/heroku-client/lib/request.js:285:9)
+    at /home/asingh/.local/share/heroku/cli/lib/node_modules/heroku-client/lib/request.js:164:14
+    at IncomingMessage.<anonymous> (/home/asingh/.local/share/heroku/cli/lib/node_modules/heroku-client/lib/request.js:393:5)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:926:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+2016/05/18 03:52:04 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
